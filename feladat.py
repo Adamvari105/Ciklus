@@ -3,5 +3,5 @@
 a = 40
 b = 60
 
-összeg= a + b:
-    prin(összeg)
+összeg = a + b:
+    print(összeg)
